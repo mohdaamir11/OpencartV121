@@ -1,0 +1,51 @@
+2025-02-09 17:23:15 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-02-09 17:23:15 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-02-09 17:23:15 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-02-09 17:23:15 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-02-09 17:23:15 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-02-09 17:23:15 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-02-09 17:23:15 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-02-09 17:23:15 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-02-09 17:23:15 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-02-09 17:23:15 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-02-09 17:23:15 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-02-09 17:23:15 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-02-09 17:23:15 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 2 ms.
+2025-02-09 17:23:15 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-02-09 17:23:15 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-02-09 17:23:15 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-02-09 17:23:15 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-02-09 17:23:15 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-02-09 17:23:15 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-02-09 17:23:15 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-02-09 17:23:15 INFO  org.testng.internal.Utils - [TestNG] Running:
+  /private/var/folders/yv/r4z7fpcx505_ps0qqfxs_0b80000gn/T/testng-eclipse-251134764/testng-customsuite.xml
+
+2025-02-09 17:23:22 INFO  org.testng.internal.Utils - [Utils] DynamicGraphHelper.createDynamicGraph() took 6 ms.
+2025-02-09 17:23:22 INFO  testCases.TC001_AccountRegistrationTest - ************ starting TC001_AccountRegistrationTest **********
+2025-02-09 17:23:31 INFO  testCases.TC001_AccountRegistrationTest - ************ clicked feature button **********
+2025-02-09 17:23:34 INFO  testCases.TC001_AccountRegistrationTest - ************ clicked Register button **********
+2025-02-09 17:23:35 INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.jq.Main@1efdcd5: 103 ms
+2025-02-09 17:23:35 INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.FailedReporter@1623bbe5: 0 ms
+2025-02-09 17:23:35 INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.XMLReporter@417ad4f3: 11 ms
+2025-02-09 17:23:35 INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@5e76a2bb: 8 ms
+2025-02-09 17:23:35 INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@2fb5fe30: 35 ms
+2025-02-09 17:23:35 INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.internal.ExitCodeListener@456be73c: 0 ms
+2025-02-09 22:19:09 DEBUG org.testng.TestNG - suiteXmlPath: "/Users/mac/eclipse-workspace/OpencartV121/master.xml"
+2025-02-09 22:19:10 INFO  org.testng.internal.Utils - [TestNG] Running:
+  /Users/mac/eclipse-workspace/OpencartV121/master.xml
+
+2025-02-09 22:19:24 INFO  testCases.TC001_AccountRegistrationTest - ************ starting TC001_AccountRegistrationTest **********
+2025-02-09 22:19:32 INFO  testCases.TC001_AccountRegistrationTest - ************ clicked feature button **********
+2025-02-09 22:19:35 INFO  testCases.TC001_AccountRegistrationTest - ************ clicked Register button **********
+2025-02-09 22:27:19 INFO  org.testng.internal.Utils - [TestNG] Running:
+  /Users/mac/eclipse-workspace/OpencartV121/master.xml
+
+2025-02-09 22:27:49 INFO  testCases.TC001_AccountRegistrationTest - ************ starting TC001_AccountRegistrationTest **********
+2025-02-09 22:27:58 INFO  testCases.TC001_AccountRegistrationTest - ************ clicked feature button **********
+2025-02-09 22:28:01 INFO  testCases.TC001_AccountRegistrationTest - ************ clicked Register button **********
+2025-02-09 22:33:09 INFO  org.testng.internal.Utils - [TestNG] Running:
+  /Users/mac/eclipse-workspace/OpencartV121/master.xml
+
+2025-02-09 22:33:47 INFO  testCases.TC001_AccountRegistrationTest - ************ starting TC001_AccountRegistrationTest **********
+2025-02-09 22:33:55 INFO  testCases.TC001_AccountRegistrationTest - ************ clicked feature button **********

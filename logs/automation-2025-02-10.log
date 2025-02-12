@@ -1,0 +1,48 @@
+2025-02-10 19:41:03 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-02-10 19:41:03 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-02-10 19:41:03 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-02-10 19:41:03 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-02-10 19:41:03 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-02-10 19:41:03 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-02-10 19:41:03 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-02-10 19:41:03 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-02-10 19:41:03 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-02-10 19:41:03 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-02-10 19:41:03 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 3 ms.
+2025-02-10 19:41:03 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-02-10 19:41:03 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-02-10 19:41:04 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-02-10 19:41:04 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-02-10 19:41:04 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-02-10 19:41:04 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-02-10 19:41:04 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-02-10 19:41:04 INFO  org.testng.internal.Utils - [TestNG] Running:
+  /private/var/folders/yv/r4z7fpcx505_ps0qqfxs_0b80000gn/T/testng-eclipse--272176053/testng-customsuite.xml
+
+2025-02-10 19:41:04 INFO  org.testng.internal.Utils - [Utils] DynamicGraphHelper.createDynamicGraph() took 6 ms.
+2025-02-10 19:41:04 INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.jq.Main@3bcbb589: 92 ms
+2025-02-10 19:41:04 INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.FailedReporter@5f6722d3: 18 ms
+2025-02-10 19:41:04 INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.XMLReporter@4b45dcb8: 34 ms
+2025-02-10 19:41:04 INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@1d131e1b: 12 ms
+2025-02-10 19:41:04 INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@260e86a1: 6 ms
+2025-02-10 19:41:04 INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.internal.ExitCodeListener@19648c40: 0 ms
+2025-02-10 19:53:07 INFO  org.testng.internal.Utils - [TestNG] Running:
+  /Users/mac/eclipse-workspace/OpencartV121/master.xml
+
+2025-02-10 19:53:13 INFO  testCases.TC001_AccountRegistrationTest - ************ starting TC001_AccountRegistrationTest **********
+2025-02-10 19:53:16 INFO  testCases.TC001_AccountRegistrationTest - ************ clicked my Account label **********
+2025-02-10 19:53:17 INFO  testCases.TC001_AccountRegistrationTest - ************ entered email id hGHJG@yopmail.com for registration **********
+2025-02-10 19:53:17 INFO  testCases.TC001_AccountRegistrationTest - ************ entered password id for registration **********
+2025-02-10 19:53:19 INFO  testCases.TC001_AccountRegistrationTest - ************ clicked Register button **********
+2025-02-10 19:53:21 INFO  testCases.TC001_AccountRegistrationTest - ************ clicked Sign Out button **********
+2025-02-10 19:53:21 INFO  testCases.TC001_AccountRegistrationTest - ************ entered email id for registration **********
+2025-02-10 19:53:22 INFO  testCases.TC001_AccountRegistrationTest - ************ entered password id for registration **********
+2025-02-10 19:53:23 INFO  testCases.TC001_AccountRegistrationTest - ************ clicked Login button **********
+2025-02-10 19:57:35 INFO  org.testng.internal.Utils - [TestNG] Running:
+  /Users/mac/eclipse-workspace/OpencartV121/master.xml
+
+2025-02-10 19:57:40 INFO  testCases.TC001_AccountRegistrationTest - ************ starting TC001_AccountRegistrationTest **********
+2025-02-10 19:57:43 INFO  testCases.TC001_AccountRegistrationTest - ************ clicked my Account label **********
+2025-02-10 19:57:44 INFO  testCases.TC001_AccountRegistrationTest - ************ entered email id xSmJe@yopmail.com for registration **********
+2025-02-10 19:57:44 INFO  testCases.TC001_AccountRegistrationTest - ************ entered password id for registration **********
+2025-02-10 19:57:46 INFO  testCases.TC001_AccountRegistrationTest - ************ clicked Register button **********
