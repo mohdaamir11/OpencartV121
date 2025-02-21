@@ -1,15 +1,20 @@
 package testCases;
+import javax.swing.text.Utilities;
+
+import org.testng.Assert;
 import org.testng.annotations.Test;
 
 import TestBase.BaseClass;
 import pageObjects.AccountRegistrationPage;
 import pageObjects.HomePage;
+import pageObjects.MainMenuPage;
+import utilities.DataProviders;
 
 public class TC001_AccountRegistrationTest extends BaseClass {
 
 
 
-	@Test
+	@Test (groups = {"Sanity","Regression","Master"})
 	public void verifyAccountRegistration() throws InterruptedException {
 
 		logger.info("************ starting TC001_AccountRegistrationTest **********");
@@ -30,7 +35,7 @@ public class TC001_AccountRegistrationTest extends BaseClass {
 		accountRegistrationPage.setEmail_Register(randomlyGenEmail);
 		logger.info("************ entered email id " + randomlyGenEmail + " for registration **********");
 
-		accountRegistrationPage.setPassword_Register("Aam@432100");
+		accountRegistrationPage.setPassword_Register(prop.getProperty("password"));
 		logger.info("************ entered password id for registration **********");
 
 		accountRegistrationPage.clickRegisterButton();
@@ -43,7 +48,7 @@ public class TC001_AccountRegistrationTest extends BaseClass {
 		accountRegistrationPage.setEmail_Login(randomlyGenEmail);
 		logger.info("************ entered email id for registration **********");
 
-		accountRegistrationPage.setPassword_Login("Aam@432100");
+		accountRegistrationPage.setPassword_Login(prop.getProperty("password"));
 		logger.info("************ entered password id for registration **********");
 
 		accountRegistrationPage.clickLoginButton();
@@ -56,12 +61,16 @@ public class TC001_AccountRegistrationTest extends BaseClass {
 
 			logger.debug("Debug logs...");
 
-			System.out.println(e.getStackTrace());
+			System.out.println(e);
 
 		}
 
 	}
 
+	
+	
+	
+	
 
 
 }

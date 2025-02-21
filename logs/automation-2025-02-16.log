@@ -1,0 +1,42 @@
+2025-02-16 23:24:51 INFO  testCases.TC001_AccountRegistrationTest - ************ clicked Login button **********
+2025-02-16 23:25:19 INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\adpo\Desktop\aamir\OpencartV121\master.xml
+
+2025-02-16 23:25:25 INFO  testCases.TC002_LoginTest_DataDriver - ************ STARTED TC002_LoginTest_DataDriver - loginTest - data driven **********
+2025-02-16 23:25:27 INFO  testCases.TC002_LoginTest_DataDriver - ************ clicked my Account label **********
+2025-02-16 23:25:27 INFO  testCases.TC002_LoginTest_DataDriver - ************ entered email id for registration **********
+2025-02-16 23:25:27 INFO  testCases.TC002_LoginTest_DataDriver - ************ entered password id for registration **********
+2025-02-16 23:25:30 INFO  testCases.TC002_LoginTest_DataDriver - ************ clicked Login button **********
+2025-02-16 23:25:32 INFO  testCases.TC002_LoginTest_DataDriver - ************ clicked Sign Out button **********
+2025-02-16 23:25:32 INFO  testCases.TC002_LoginTest_DataDriver - ************ ENDED TC002_LoginTest_DataDriver - loginTest - data driven **********
+2025-02-16 23:25:32 INFO  testCases.TC002_LoginTest_DataDriver - ************ STARTED TC002_LoginTest_DataDriver - loginTest - data driven **********
+2025-02-16 23:25:34 INFO  testCases.TC002_LoginTest_DataDriver - ************ clicked my Account label **********
+2025-02-16 23:25:34 INFO  testCases.TC002_LoginTest_DataDriver - ************ entered email id for registration **********
+2025-02-16 23:25:34 INFO  testCases.TC002_LoginTest_DataDriver - ************ entered password id for registration **********
+2025-02-16 23:25:37 INFO  testCases.TC002_LoginTest_DataDriver - ************ clicked Login button **********
+2025-02-16 23:25:57 INFO  testCases.TC002_LoginTest_DataDriver - ************ ENDED TC002_LoginTest_DataDriver - loginTest - data driven **********
+2025-02-16 23:25:57 INFO  testCases.TC002_LoginTest_DataDriver - ************ STARTED TC002_LoginTest_DataDriver - loginTest - data driven **********
+2025-02-16 23:25:58 INFO  testCases.TC002_LoginTest_DataDriver - ************ clicked my Account label **********
+2025-02-16 23:25:58 INFO  testCases.TC002_LoginTest_DataDriver - ************ entered email id for registration **********
+2025-02-16 23:25:58 INFO  testCases.TC002_LoginTest_DataDriver - ************ entered password id for registration **********
+2025-02-16 23:26:00 INFO  testCases.TC002_LoginTest_DataDriver - ************ clicked Login button **********
+2025-02-16 23:26:20 INFO  testCases.TC002_LoginTest_DataDriver - ************ ENDED TC002_LoginTest_DataDriver - loginTest - data driven **********
+2025-02-16 23:26:20 INFO  testCases.TC002_LoginTest_DataDriver - ************ STARTED TC002_LoginTest_DataDriver - loginTest - data driven **********
+2025-02-16 23:26:22 INFO  testCases.TC002_LoginTest_DataDriver - ************ clicked my Account label **********
+2025-02-16 23:26:22 INFO  testCases.TC002_LoginTest_DataDriver - ************ entered email id for registration **********
+2025-02-16 23:26:22 INFO  testCases.TC002_LoginTest_DataDriver - ************ entered password id for registration **********
+2025-02-16 23:26:23 INFO  testCases.TC002_LoginTest_DataDriver - ************ clicked Login button **********
+2025-02-16 23:26:44 INFO  testCases.TC002_LoginTest_DataDriver - ************ ENDED TC002_LoginTest_DataDriver - loginTest - data driven **********
+2025-02-16 23:26:44 INFO  testCases.TC002_LoginTest_DataDriver - ************ STARTED TC002_LoginTest_DataDriver - loginTest - data driven **********
+2025-02-16 23:26:45 INFO  testCases.TC002_LoginTest_DataDriver - ************ clicked my Account label **********
+2025-02-16 23:26:45 INFO  testCases.TC002_LoginTest_DataDriver - ************ entered email id for registration **********
+2025-02-16 23:26:45 INFO  testCases.TC002_LoginTest_DataDriver - ************ entered password id for registration **********
+2025-02-16 23:26:48 INFO  testCases.TC002_LoginTest_DataDriver - ************ clicked Login button **********
+2025-02-16 23:26:50 INFO  testCases.TC002_LoginTest_DataDriver - ************ clicked Sign Out button **********
+2025-02-16 23:26:50 INFO  testCases.TC002_LoginTest_DataDriver - ************ ENDED TC002_LoginTest_DataDriver - loginTest - data driven **********
+2025-02-16 23:26:50 INFO  testCases.TC002_LoginTest_DataDriver - ************ STARTED TC002_LoginTest_DataDriver - loginTest - data driven **********
+2025-02-16 23:26:52 INFO  testCases.TC002_LoginTest_DataDriver - ************ clicked my Account label **********
+2025-02-16 23:26:52 INFO  testCases.TC002_LoginTest_DataDriver - ************ entered email id for registration **********
+2025-02-16 23:26:52 INFO  testCases.TC002_LoginTest_DataDriver - ************ entered password id for registration **********
+2025-02-16 23:26:54 INFO  testCases.TC002_LoginTest_DataDriver - ************ clicked Login button **********
+2025-02-16 23:27:14 INFO  testCases.TC002_LoginTest_DataDriver - ************ ENDED TC002_LoginTest_DataDriver - loginTest - data driven **********

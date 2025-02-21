@@ -1,37 +1,21 @@
-2025-02-10 19:57:48 INFO  testCases.TC001_AccountRegistrationTest - ************ clicked Sign Out button **********
-2025-02-10 19:57:49 INFO  testCases.TC001_AccountRegistrationTest - ************ entered email id for registration **********
-2025-02-10 19:57:49 INFO  testCases.TC001_AccountRegistrationTest - ************ entered password id for registration **********
-2025-02-10 19:57:50 INFO  testCases.TC001_AccountRegistrationTest - ************ clicked Login button **********
-2025-02-10 19:58:20 INFO  org.testng.internal.Utils - [TestNG] Running:
-  /Users/mac/eclipse-workspace/OpencartV121/crossbrowsertesting.xml
-
-2025-02-10 19:58:31 INFO  testCases.TC001_AccountRegistrationTest - ************ starting TC001_AccountRegistrationTest **********
-2025-02-10 19:58:33 INFO  testCases.TC001_AccountRegistrationTest - ************ starting TC001_AccountRegistrationTest **********
-2025-02-10 19:58:37 INFO  testCases.TC001_AccountRegistrationTest - ************ clicked my Account label **********
-2025-02-10 19:58:38 INFO  testCases.TC001_AccountRegistrationTest - ************ entered email id oLPLu@yopmail.com for registration **********
-2025-02-10 19:58:38 INFO  testCases.TC001_AccountRegistrationTest - ************ clicked my Account label **********
-2025-02-10 19:58:39 INFO  testCases.TC001_AccountRegistrationTest - ************ entered password id for registration **********
-2025-02-10 19:58:39 INFO  testCases.TC001_AccountRegistrationTest - ************ entered email id YKRwy@yopmail.com for registration **********
-2025-02-10 19:58:40 INFO  testCases.TC001_AccountRegistrationTest - ************ entered password id for registration **********
-2025-02-10 19:58:43 INFO  testCases.TC001_AccountRegistrationTest - ************ clicked Register button **********
-2025-02-10 19:58:44 INFO  testCases.TC001_AccountRegistrationTest - ************ clicked Register button **********
-2025-02-10 19:58:47 INFO  testCases.TC001_AccountRegistrationTest - ************ starting TC001_AccountRegistrationTest **********
-2025-02-10 19:58:47 INFO  testCases.TC001_AccountRegistrationTest - ************ clicked Sign Out button **********
-2025-02-10 19:58:49 INFO  testCases.TC001_AccountRegistrationTest - ************ entered email id for registration **********
-2025-02-10 19:58:49 INFO  testCases.TC001_AccountRegistrationTest - ************ clicked Sign Out button **********
-2025-02-10 19:58:49 INFO  testCases.TC001_AccountRegistrationTest - ************ entered password id for registration **********
-2025-02-10 19:58:50 INFO  testCases.TC001_AccountRegistrationTest - ************ clicked Login button **********
-2025-02-10 19:58:50 INFO  testCases.TC001_AccountRegistrationTest - ************ entered email id for registration **********
-2025-02-10 19:58:50 INFO  testCases.TC001_AccountRegistrationTest - ************ entered password id for registration **********
-2025-02-10 19:58:53 INFO  testCases.TC001_AccountRegistrationTest - ************ clicked Login button **********
-2025-02-10 19:58:54 INFO  testCases.TC001_AccountRegistrationTest - ************ clicked my Account label **********
-2025-02-10 19:58:54 INFO  testCases.TC001_AccountRegistrationTest - ************ entered email id RAuXF@yopmail.com for registration **********
-2025-02-10 19:58:55 INFO  testCases.TC001_AccountRegistrationTest - ************ entered password id for registration **********
-2025-02-10 19:58:58 INFO  testCases.TC001_AccountRegistrationTest - ************ clicked Register button **********
-2025-02-10 19:59:00 INFO  testCases.TC001_AccountRegistrationTest - ************ clicked Sign Out button **********
-2025-02-10 19:59:00 INFO  testCases.TC001_AccountRegistrationTest - ************ entered email id for registration **********
-2025-02-10 19:59:00 INFO  testCases.TC001_AccountRegistrationTest - ************ entered password id for registration **********
-2025-02-10 19:59:02 INFO  testCases.TC001_AccountRegistrationTest - ************ clicked Login button **********
-2025-02-10 20:03:08 INFO  org.testng.internal.Utils - [TestNG] Running:
-  /Users/mac/eclipse-workspace/OpencartV121/crossbrowsertesting.xml
-
+2025-02-22 01:11:33 INFO  testCases.TC001_AccountRegistrationTest - ************ entered email id for registration **********
+2025-02-22 01:11:33 INFO  testCases.TC001_AccountRegistrationTest - ************ entered password id for registration **********
+2025-02-22 01:11:36 INFO  testCases.TC001_AccountRegistrationTest - ************ clicked Login button **********
+2025-02-22 01:27:17 INFO  testCases.TC001_AccountRegistrationTest - ************ starting TC001_AccountRegistrationTest **********
+2025-02-22 01:27:19 INFO  testCases.TC001_AccountRegistrationTest - ************ clicked my Account label **********
+2025-02-22 01:27:19 INFO  testCases.TC001_AccountRegistrationTest - ************ entered email id qkrYl@yopmail.com for registration **********
+2025-02-22 01:27:20 INFO  testCases.TC001_AccountRegistrationTest - ************ entered password id for registration **********
+2025-02-22 01:27:25 INFO  testCases.TC001_AccountRegistrationTest - ************ clicked Register button **********
+2025-02-22 01:27:28 INFO  testCases.TC001_AccountRegistrationTest - ************ clicked Sign Out button **********
+2025-02-22 01:27:28 INFO  testCases.TC001_AccountRegistrationTest - ************ entered email id for registration **********
+2025-02-22 01:27:28 INFO  testCases.TC001_AccountRegistrationTest - ************ entered password id for registration **********
+2025-02-22 01:27:31 INFO  testCases.TC001_AccountRegistrationTest - ************ clicked Login button **********
+2025-02-22 01:32:26 INFO  testCases.TC001_AccountRegistrationTest - ************ starting TC001_AccountRegistrationTest **********
+2025-02-22 01:32:28 INFO  testCases.TC001_AccountRegistrationTest - ************ clicked my Account label **********
+2025-02-22 01:32:28 INFO  testCases.TC001_AccountRegistrationTest - ************ entered email id VWkAL@yopmail.com for registration **********
+2025-02-22 01:32:28 INFO  testCases.TC001_AccountRegistrationTest - ************ entered password id for registration **********
+2025-02-22 01:32:33 INFO  testCases.TC001_AccountRegistrationTest - ************ clicked Register button **********
+2025-02-22 01:32:36 INFO  testCases.TC001_AccountRegistrationTest - ************ clicked Sign Out button **********
+2025-02-22 01:32:36 INFO  testCases.TC001_AccountRegistrationTest - ************ entered email id for registration **********
+2025-02-22 01:32:36 INFO  testCases.TC001_AccountRegistrationTest - ************ entered password id for registration **********
+2025-02-22 01:32:39 INFO  testCases.TC001_AccountRegistrationTest - ************ clicked Login button **********
