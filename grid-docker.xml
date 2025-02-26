@@ -19,15 +19,15 @@
   </test> 
   
   
-<!--    <test name="Linux-Firefox">
+ <test name="Linux-Firefox">
  <parameter name="os" value="Linux"/>
   <parameter name="browser" value="firefox"/>
   
     <classes>
       <class name="testCases.TC001_AccountRegistrationTest"/>
-      <class name="testCases.TC002_LoginTest_DataDriver"/>
+    <!--  <class name="testCases.TC002_LoginTest_DataDriver"/>-->
       
     </classes>
-  </test>  Test -->
+  </test>  
   
 </suite> <!-- Suite -->
