@@ -3,8 +3,10 @@
 
 <suite name="Suite" thread-count="5" parallel="tests">
   <listeners>
-    <listener class-name="utlities.ExtentReportManager"/>
+    <listener class-name="utilities.ExtentReportManager"/>
    </listeners>
+   
+   <!-- this is to run our Test case parallelly on different browsers, ON LOCAL SYSTEM or Grid (remote)-->
    
   <test name="chromeTest">
   <parameter name="os" value="Windows"/>

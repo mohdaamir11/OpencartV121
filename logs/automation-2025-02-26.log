@@ -1,0 +1,49 @@
+2025-02-26 17:56:58 INFO  testCases.TC001_AccountRegistrationTest - ************ clicked Login button **********
+2025-02-26 18:07:57 INFO  testCases.TC001_AccountRegistrationTest - ************ starting TC001_AccountRegistrationTest **********
+2025-02-26 18:08:00 INFO  testCases.TC001_AccountRegistrationTest - ************ clicked my Account label **********
+2025-02-26 18:08:00 INFO  testCases.TC001_AccountRegistrationTest - ************ entered email id lqhUJ@yopmail.com for registration **********
+2025-02-26 18:08:00 INFO  testCases.TC001_AccountRegistrationTest - ************ entered password id for registration **********
+2025-02-26 18:08:04 INFO  testCases.TC001_AccountRegistrationTest - ************ clicked Register button **********
+2025-02-26 18:08:08 INFO  testCases.TC001_AccountRegistrationTest - ************ clicked Sign Out button **********
+2025-02-26 18:08:08 INFO  testCases.TC001_AccountRegistrationTest - ************ entered email id for registration **********
+2025-02-26 18:08:08 INFO  testCases.TC001_AccountRegistrationTest - ************ entered password id for registration **********
+2025-02-26 18:08:12 INFO  testCases.TC001_AccountRegistrationTest - ************ clicked Login button **********
+2025-02-26 18:13:51 INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\adpo\Desktop\aamir\OpencartV121\crossbrowsertesting.xml
+
+2025-02-26 18:14:03 INFO  testCases.TC001_AccountRegistrationTest - ************ starting TC001_AccountRegistrationTest **********
+2025-02-26 18:14:03 INFO  testCases.TC001_AccountRegistrationTest - ************ starting TC001_AccountRegistrationTest **********
+2025-02-26 18:14:06 INFO  testCases.TC001_AccountRegistrationTest - ************ clicked my Account label **********
+2025-02-26 18:14:06 ERROR testCases.TC001_AccountRegistrationTest - Test Failed...
+2025-02-26 18:14:06 INFO  testCases.TC001_AccountRegistrationTest - ************ entered email id gZdfg@yopmail.com for registration **********
+2025-02-26 18:14:06 ERROR testCases.TC001_AccountRegistrationTest - Test Failed...
+2025-02-26 18:14:27 INFO  testCases.TC001_AccountRegistrationTest - ************ starting TC001_AccountRegistrationTest **********
+2025-02-26 18:14:30 INFO  testCases.TC001_AccountRegistrationTest - ************ clicked my Account label **********
+2025-02-26 18:14:30 INFO  testCases.TC001_AccountRegistrationTest - ************ entered email id UgiIP@yopmail.com for registration **********
+2025-02-26 18:14:30 INFO  testCases.TC001_AccountRegistrationTest - ************ entered password id for registration **********
+2025-02-26 18:14:40 ERROR testCases.TC001_AccountRegistrationTest - Test Failed...
+2025-02-26 18:17:15 INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\adpo\Desktop\aamir\OpencartV121\crossbrowsertesting.xml
+
+2025-02-26 18:17:28 INFO  testCases.TC001_AccountRegistrationTest - ************ starting TC001_AccountRegistrationTest **********
+2025-02-26 18:17:28 INFO  testCases.TC001_AccountRegistrationTest - ************ starting TC001_AccountRegistrationTest **********
+2025-02-26 18:17:28 INFO  testCases.TC001_AccountRegistrationTest - ************ starting TC001_AccountRegistrationTest **********
+2025-02-26 18:17:30 INFO  testCases.TC001_AccountRegistrationTest - ************ clicked my Account label **********
+2025-02-26 18:17:30 ERROR testCases.TC001_AccountRegistrationTest - Test Failed...
+2025-02-26 18:17:30 ERROR testCases.TC001_AccountRegistrationTest - Test Failed...
+2025-02-26 18:17:31 INFO  testCases.TC001_AccountRegistrationTest - ************ entered email id pAbYK@yopmail.com for registration **********
+2025-02-26 18:17:32 ERROR testCases.TC001_AccountRegistrationTest - Test Failed...
+2025-02-26 18:19:39 INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\adpo\Desktop\aamir\OpencartV121\master.xml
+
+2025-02-26 18:19:51 INFO  testCases.TC001_AccountRegistrationTest - ************ starting TC001_AccountRegistrationTest **********
+2025-02-26 18:19:53 INFO  testCases.TC001_AccountRegistrationTest - ************ clicked my Account label **********
+2025-02-26 18:19:53 INFO  testCases.TC001_AccountRegistrationTest - ************ entered email id yAwIR@yopmail.com for registration **********
+2025-02-26 18:19:53 INFO  testCases.TC001_AccountRegistrationTest - ************ entered password id for registration **********
+2025-02-26 18:20:03 ERROR testCases.TC001_AccountRegistrationTest - Test Failed...
+2025-02-26 18:21:39 INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\adpo\Desktop\aamir\OpencartV121\crossbrowsertesting.xml
+
+2025-02-26 18:21:46 INFO  testCases.TC001_AccountRegistrationTest - ************ starting TC001_AccountRegistrationTest **********
+2025-02-26 18:21:48 INFO  testCases.TC001_AccountRegistrationTest - ************ clicked my Account label **********
+2025-02-26 18:21:48 INFO  testCases.TC001_AccountRegistrationTest - ************ starting TC001_AccountRegistrationTest **********

@@ -1,21 +1,6 @@
-2025-02-22 01:11:33 INFO  testCases.TC001_AccountRegistrationTest - ************ entered email id for registration **********
-2025-02-22 01:11:33 INFO  testCases.TC001_AccountRegistrationTest - ************ entered password id for registration **********
-2025-02-22 01:11:36 INFO  testCases.TC001_AccountRegistrationTest - ************ clicked Login button **********
-2025-02-22 01:27:17 INFO  testCases.TC001_AccountRegistrationTest - ************ starting TC001_AccountRegistrationTest **********
-2025-02-22 01:27:19 INFO  testCases.TC001_AccountRegistrationTest - ************ clicked my Account label **********
-2025-02-22 01:27:19 INFO  testCases.TC001_AccountRegistrationTest - ************ entered email id qkrYl@yopmail.com for registration **********
-2025-02-22 01:27:20 INFO  testCases.TC001_AccountRegistrationTest - ************ entered password id for registration **********
-2025-02-22 01:27:25 INFO  testCases.TC001_AccountRegistrationTest - ************ clicked Register button **********
-2025-02-22 01:27:28 INFO  testCases.TC001_AccountRegistrationTest - ************ clicked Sign Out button **********
-2025-02-22 01:27:28 INFO  testCases.TC001_AccountRegistrationTest - ************ entered email id for registration **********
-2025-02-22 01:27:28 INFO  testCases.TC001_AccountRegistrationTest - ************ entered password id for registration **********
-2025-02-22 01:27:31 INFO  testCases.TC001_AccountRegistrationTest - ************ clicked Login button **********
-2025-02-22 01:32:26 INFO  testCases.TC001_AccountRegistrationTest - ************ starting TC001_AccountRegistrationTest **********
-2025-02-22 01:32:28 INFO  testCases.TC001_AccountRegistrationTest - ************ clicked my Account label **********
-2025-02-22 01:32:28 INFO  testCases.TC001_AccountRegistrationTest - ************ entered email id VWkAL@yopmail.com for registration **********
-2025-02-22 01:32:28 INFO  testCases.TC001_AccountRegistrationTest - ************ entered password id for registration **********
-2025-02-22 01:32:33 INFO  testCases.TC001_AccountRegistrationTest - ************ clicked Register button **********
-2025-02-22 01:32:36 INFO  testCases.TC001_AccountRegistrationTest - ************ clicked Sign Out button **********
-2025-02-22 01:32:36 INFO  testCases.TC001_AccountRegistrationTest - ************ entered email id for registration **********
-2025-02-22 01:32:36 INFO  testCases.TC001_AccountRegistrationTest - ************ entered password id for registration **********
-2025-02-22 01:32:39 INFO  testCases.TC001_AccountRegistrationTest - ************ clicked Login button **********
+2025-02-26 18:21:48 INFO  testCases.TC001_AccountRegistrationTest - ************ entered email id gLHnh@yopmail.com for registration **********
+2025-02-26 18:21:48 INFO  testCases.TC001_AccountRegistrationTest - ************ entered password id for registration **********
+2025-02-26 18:21:50 INFO  testCases.TC001_AccountRegistrationTest - ************ clicked my Account label **********
+2025-02-26 18:21:50 ERROR testCases.TC001_AccountRegistrationTest - Test Failed...
+2025-02-26 18:21:50 INFO  testCases.TC001_AccountRegistrationTest - ************ entered email id wdjNO@yopmail.com for registration **********
+2025-02-26 18:21:51 ERROR testCases.TC001_AccountRegistrationTest - Test Failed...

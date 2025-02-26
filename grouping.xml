@@ -13,7 +13,7 @@
          </groups>
 
 	   <listeners>
-	    <listener class-name="utlities.ExtentReportManager"/>
+	    <listener class-name="utilities.ExtentReportManager"/>
 	   </listeners>
 	   
 
