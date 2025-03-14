@@ -1,6 +1,4 @@
-2025-02-26 18:21:48 INFO  testCases.TC001_AccountRegistrationTest - ************ entered email id gLHnh@yopmail.com for registration **********
-2025-02-26 18:21:48 INFO  testCases.TC001_AccountRegistrationTest - ************ entered password id for registration **********
-2025-02-26 18:21:50 INFO  testCases.TC001_AccountRegistrationTest - ************ clicked my Account label **********
-2025-02-26 18:21:50 ERROR testCases.TC001_AccountRegistrationTest - Test Failed...
-2025-02-26 18:21:50 INFO  testCases.TC001_AccountRegistrationTest - ************ entered email id wdjNO@yopmail.com for registration **********
-2025-02-26 18:21:51 ERROR testCases.TC001_AccountRegistrationTest - Test Failed...
+2025-02-28 18:17:56 INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.XMLReporter@2f879bab: 8 ms
+2025-02-28 18:17:56 INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@1d782abe: 7 ms
+2025-02-28 18:17:56 INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@4aac85fa: 8 ms
+2025-02-28 18:17:56 INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.internal.ExitCodeListener@21fff664: 0 ms

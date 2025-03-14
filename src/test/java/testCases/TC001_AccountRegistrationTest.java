@@ -3,6 +3,8 @@ import javax.swing.text.Utilities;
 
 import org.testng.Assert;
 import org.testng.annotations.Test;
+import org.testng.asserts.Assertion;
+import org.testng.asserts.SoftAssert;
 
 import TestBase.BaseClass;
 import pageObjects.AccountRegistrationPage;
@@ -66,8 +68,34 @@ public class TC001_AccountRegistrationTest extends BaseClass {
 		}
 
 	}
-
 	
+	@Test
+	public void checkHardAssertions() {
+		
+		String str1 = "TheMan";
+		String str2 = "TheMan";
+		
+		Assert.assertEquals(str1, str2); // hard assert
+		
+		
+	}
+
+	@Test (dependsOnMethods = {"checkHardAssertions"})
+	public void checkSoftAssertions() {
+		
+		String str1 = "TheMan";
+		String str2 = "TheMa";
+		
+		System.out.println("inside soft assert 1");
+		SoftAssert as = new SoftAssert();
+		
+				as.assertEquals(str1, str2);   //normally it pass the test case even if condition is met or not met
+		
+				System.out.println("inside soft assert 2");
+				
+				as.assertAll();  // this is to make test case Failed in case soft assert fails
+				
+	}
 	
 	
 	
